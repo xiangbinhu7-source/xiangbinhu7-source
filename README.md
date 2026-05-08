@@ -1,10 +1,5 @@
 ## Hi there 👋
-I'm from China, currently learning open source software development and applications, and working on related practice projects.
-<!--
-**xiangbinhu7-source/xiangbinhu7-source** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
+I'm from China and now an international student in South Korea currently learning open source software development and applications, and working on related practice projects.
 - 🔭 I’m currently working on small open source practice projects in AI and machine learning
 - 🌱 I’m currently learning open source software development workflows and AI application development
 - 👯 I’m looking to collaborate on beginner-friendly open source AI/ML projects to gain hands-on experience
@@ -13,4 +8,17 @@ Here are some ideas to get you started:
 - 📫 How to reach me: xiangbinhu7@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I'm an AI student from China, excited to connect with the global open source community and grow as a developer!
+<!--
+**xiangbinhu7-source/xiangbinhu7-source** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
 -->
