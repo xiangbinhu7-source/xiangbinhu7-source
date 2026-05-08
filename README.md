@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+I'm from China, currently learning open source software development and applications, and working on related practice projects.
 <!--
 **xiangbinhu7-source/xiangbinhu7-source** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
